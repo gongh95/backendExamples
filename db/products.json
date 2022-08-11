@@ -1,0 +1,20 @@
+[
+  {
+    "producto": {
+      "id": 1,
+      "name": "Gonzalo",
+      "price": 123456,
+      "url": "Una url",
+      "descript": "Descripcion"
+    }
+  },
+  {
+    "producto": {
+      "id": 3,
+      "name": "gongh",
+      "price": 123456,
+      "url": "Una url",
+      "descript": "algo"
+    }
+  }
+]
